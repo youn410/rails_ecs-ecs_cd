@@ -1,0 +1,6 @@
+[
+	{
+		"name": "rails",
+		"imageUri": "764213513245.dkr.ecr.ap-northeast-1.amazonaws.com/rails_app/rails:dummy"
+	}
+]
